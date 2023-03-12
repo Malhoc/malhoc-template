@@ -1,1 +1,2 @@
-# malhoc-template
+# Malhoc
+this repositry is for company website template.
