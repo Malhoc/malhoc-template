@@ -19,5 +19,5 @@ jobs:
         username: ${{ secrets.SSH_USER }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
-          cd /var/www/malhoc.com/
+          cd /var/www/malhoc.com/malhoc-template
           git pull
